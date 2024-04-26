@@ -54,7 +54,7 @@ uvicorn==0.27.1
 
 
 ## 영화추천시스템
-![all화면](https://github.com/ssom1/example/blob/main/%EC%98%81%ED%99%94%EC%B6%94%EC%B2%9C.png)
+![all화면](https://github.com/dltnfls/example/blob/main/%EC%98%81%ED%99%94%EC%B6%94%EC%B2%9C.png)
 개발환경
 annotated-types==0.6.0
 anyio==4.3.0
